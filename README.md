@@ -742,7 +742,7 @@ The core idea of this project can be summarized as:
 
 # 👨‍💻 Author
 
-**Tejas Ingle**
+**Tejas Ingle, Pradnya Ghokshe, Prachi shinde **
 
 3rd Year — AI & Data Science Engineering
 
